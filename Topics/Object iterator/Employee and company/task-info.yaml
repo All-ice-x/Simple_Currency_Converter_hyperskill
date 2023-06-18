@@ -1,0 +1,16 @@
+type: code
+files:
+- name: main.js
+  visible: true
+  text: |-
+    function employeeAndCompany(employees) {
+
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16903#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 14 Jun 2023 21:23:52 UTC"
+record: -1
+submission_language: javascript

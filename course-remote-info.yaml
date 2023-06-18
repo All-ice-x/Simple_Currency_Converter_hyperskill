@@ -1,0 +1,164 @@
+hyperskill_project:
+  id: 231
+  ide_files: https://cogniterra.org/media/attachments/lesson/26275/additional_files.json
+  is_template_based: false
+  use_ide: true
+update_date: "Sun, 18 Jun 2023 09:45:25 UTC"
+stages:
+- id: 1157
+  step: 17897
+  is_completed: true
+- id: 1158
+  step: 17898
+  is_completed: true
+- id: 1159
+  step: 17899
+  is_completed: true
+- id: 1160
+  step: 17900
+  is_completed: true
+topics:
+  0:
+  - title: Computer algorithms
+    theory_id: 16547
+  - title: Starting with GitHub
+    theory_id: 4802
+  - title: Introduction to CI/CD
+    theory_id: 19773
+  - title: Introduction to Operating systems
+    theory_id: 9704
+  - title: Command line overview
+    theory_id: 8977
+  - title: Parameters and Options
+    theory_id: 9746
+  - title: World Wide Web
+    theory_id: 6633
+  - title: HyperText Transfer Protocol
+    theory_id: 6569
+  - title: Comments
+    theory_id: 8170
+  - title: Files
+    theory_id: 13025
+  - title: JavaScript Code Style
+    theory_id: 9916
+  - title: First program in bash
+    theory_id: 12135
+  - title: Functions and arguments
+    theory_id: 12188
+  - title: Starting with Git
+    theory_id: 10894
+  - title: Introduction to GitHub actions
+    theory_id: 20403
+  - title: File descriptors and pipes
+    theory_id: 12475
+  - title: Local repository
+    theory_id: 10901
+  - title: Running a "hello world" action
+    theory_id: 20853
+  - title: Using external workflows
+    theory_id: 21539
+  - title: Envs and secrets
+    theory_id: 22886
+  - title: Variables and aliases
+    theory_id: 16670
+  - title: Arithmetic operations
+    theory_id: 18867
+  - title: Case statement and argument parsing
+    theory_id: 19964
+  - title: Best practices for bash scripts
+    theory_id: 19230
+  - title: Explore folders and files
+    theory_id: 12495
+  - title: Conditional statements and test checks
+    theory_id: 16582
+  - title: Globbing
+    theory_id: 24126
+  - title: Braces and parentheses
+    theory_id: 27805
+  - title: Naming variables
+    theory_id: 8364
+  - title: Computer programming
+    theory_id: 8739
+  - title: Web development
+    theory_id: 13931
+  - title: Introduction to JavaScript
+    theory_id: 8016
+  - title: Overview of the basic program
+    theory_id: 8154
+  - title: Multi-line programs
+    theory_id: 8162
+  - title: Variables
+    theory_id: 8186
+  - title: Strings and numbers
+    theory_id: 8194
+  - title: Arithmetic operators
+    theory_id: 8372
+  - title: Functions
+    theory_id: 8388
+  - title: YAML
+    theory_id: 12722
+  - title: Boolean and Logical Operators
+    theory_id: 8471
+  - title: JSON
+    theory_id: 6854
+  - title: Introduction to Objects
+    theory_id: 8588
+  - title: Null and Undefined
+    theory_id: 8564
+  - title: Type Conversion
+    theory_id: 8380
+  - title: Comparison Operators
+    theory_id: 8580
+  - title: Conditional Operators
+    theory_id: 8889
+  - title: "Hashing: overview"
+    theory_id: 9831
+  - title: Hash function
+    theory_id: 10878
+  - title: Regexps basics
+    theory_id: 7580
+  - title: Introduction to Linux
+    theory_id: 9526
+  - title: Introduction to String
+    theory_id: 17747
+  - title: Template literals
+    theory_id: 8731
+  - title: Self-documenting code
+    theory_id: 12063
+  1:
+  - title: What is a bug
+    theory_id: 5504
+  - title: Documentation
+    theory_id: 12069
+  - title: Defining functions
+    theory_id: 24012
+  - title: Anonymous Function
+    theory_id: 26924
+  - title: Arrow Functions
+    theory_id: 8455
+  - title: Introduction to Arrays
+    theory_id: 16141
+  - title: Array creation
+    theory_id: 16356
+  - title: Object iterator
+    theory_id: 16899
+  - title: Object methods and keyword "this"
+    theory_id: 8715
+  - title: ForEach method
+    theory_id: 10133
+  - title: Increment and Decrement
+    theory_id: 9102
+  - title: For Loops
+    theory_id: 9119
+  - title: Debugging overview
+    theory_id: 14368
+  - title: String transforming
+    theory_id: 17779
+  2:
+  - title: Switch
+    theory_id: 10689
+  3:
+  - title: While Loops
+    theory_id: 9128
+  - title: Break and Continue
+    theory_id: 9374
